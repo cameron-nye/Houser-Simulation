@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.App {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+  display: flex;
+  height: 75px;
+  font-size: 40px;
+  background-color: #519872;
+  color: #E5F4EC;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.main {
+  background-color: #AFD4C0;
+  height: 95vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.dash {
+  background-color: #E5F4EC;
+  width: 50%;
+  
+}
+
+
